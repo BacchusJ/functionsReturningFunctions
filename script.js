@@ -31,3 +31,5 @@ designerQuestion('Justin');
 
 var dragqueenQuestion = interviewQuestion('drag queen');
 dragqueenQuestion('RuPaul');
+
+interviewQuestion('drag queen')('Kika');
